@@ -1,10 +1,10 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-Version '1.0'
 
 author 'Lion Development'
 description 'JobAnnounce'
+Version '1.1'
 
 client_scripts {
     'client.lua',
